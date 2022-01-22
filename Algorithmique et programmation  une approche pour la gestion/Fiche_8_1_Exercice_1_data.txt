@@ -1,0 +1,374 @@
+Client	Vendeur	Date Commande	No Commande	Nom du produit	Montant acheté	Catégorie de produit
+Constructeurs Laurence Ltée (Les)	Marc Léger	15-Jul-08	10368	Porte vavoom blanche	2275.74	Portes
+Construction Ouellette & Fils	Marc Léger	15-Jul-08	10369	Poignées cuivrées	291.15	Quicaillerie
+Nord Construction (1962) Inc	Pierre Robert	15-Jul-08	10370	Pentures bas de gamme	51.28	Quicaillerie
+Construction Lyon Inc	Robert Gilbert	15-Jul-08	10371	Cuvette standard	739.24	Plomberie
+Construction AGLP	Marc Léger	15-Jul-08	10372	Évier simple	123.87	Plomberie
+Construction L K Inc	Pierre Robert	15-Jul-08	10373	Porte vavoom chêne	1565.84	Portes
+Janin Atlas Inc	Robert Gilbert	15-Jul-08	10374	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+ABCO Couvreurs & Entrepreneurs Généraux Ltée	Marc Léger	15-Jul-08	10375	Armoire particules	3924.41	Armoires de cuisine
+Northal Construction Ltée	Jacques Babin	15-Jul-08	10376	Poignées cuivrées	524.07	Quicaillerie
+Plomberie Transilvania Inc	Robert Gilbert	15-Jul-08	10377	Armoire chêne	5216.18	Armoires de cuisine
+Consultants Electrique D & D Inc	Robert Gilbert	16-Jul-08	10378	Pentures cuivrées	233.88	Quicaillerie
+Construction L De M Inc	Pierre Robert	16-Jul-08	10379	Armoire acajou	5578.84	Armoires de cuisine
+Tower Company (1961)	Marc Léger	16-Jul-08	10380	Évier double	372.78	Plomberie
+Giuseppe Sicoli	Marc Léger	16-Jul-08	10381	Poignées cuivrées	524.07	Quicaillerie
+Rénovation M G F	Pierre Robert	16-Jul-08	10382	Fenêtre cadre aluminium	11898.27	Fenêtres
+Acier Revêtement S & L	Gilbert Jacques	16-Jul-08	10383	Lavabo simple	132.12	Plomberie
+Construction Beldex (Les)	Robert Gilbert	16-Jul-08	10384	Armoire mélamine plus	4770.82	Armoires de cuisine
+Habitations Laurendeau Inc	Marc Léger	16-Jul-08	10385	Évier simple	247.74	Plomberie
+Broccolini Construction Inc	Gilbert Jacques	16-Jul-08	10386	Porte vavoom chêne	2348.76	Portes
+Entreprises Domra Inc	Marc Léger	16-Jul-08	10387	Porte vavoom blanche	1517.16	Portes
+Charbonneau A Inc	Robert Gilbert	16-Jul-08	10388	Armoire mélamine plus	4770.82	Armoires de cuisine
+Groupe A-7 Inc	Pierre Robert	16-Jul-08	10389	Armoire acajou	5578.84	Armoires de cuisine
+Construction Michel Labbé	Pierre Robert	17-Jul-08	10390	Évier simple	123.87	Plomberie
+Construction Ruvoco	Pierre Robert	17-Jul-08	10391	Fenêtre cadre aluminium	17186.39	Fenêtres
+Master Carpenter Mcmullin	Pierre Robert	17-Jul-08	10392	Lavabo sur pied	655.54	Plomberie
+Progest Construction Enr	Jacques Babin	17-Jul-08	10393	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Foglietta Construction Inc	Marc Léger	17-Jul-08	10394	Cuvette standard	739.24	Plomberie
+Groupe Maltais	Marc Léger	17-Jul-08	10395	Armoire contreplaqué	4619.28	Armoires de cuisine
+Broccolini Construction Inc	Jacques Babin	17-Jul-08	10396	Armoire chêne	5216.18	Armoires de cuisine
+Plomberie Exclusive Inc	Marc Léger	17-Jul-08	10397	Pentures chromées	39.17	Quicaillerie
+Habitations Laurendeau Inc	Marc Léger	17-Jul-08	10398	Porte vavoom chêne	1565.84	Portes
+Construction Gaétan Savard Inc	Jacques Babin	17-Jul-08	10399	Armoire particules	3924.41	Armoires de cuisine
+Construction Sofar	Jacques Babin	17-Jul-08	10400	Armoire contreplaqué	4619.28	Armoires de cuisine
+Entreprise De Construction Gonzalez Inc	Marc Léger	17-Jul-08	10401	Évier simple	247.74	Plomberie
+Construction Sainte Gabrielle	Marc Léger	18-Jul-08	10402	Armoire mélamine plus	4770.82	Armoires de cuisine
+EBC Inc	Jacques Babin	18-Jul-08	10403	Porte monotone blanche	1363.94	Portes
+Deltec	Jacques Babin	18-Jul-08	10404	Lavabo sur pied	327.77	Plomberie
+Constructions Benoit Larrivée Ltée	Pierre Robert	18-Jul-08	10405	Armoire chêne	5216.18	Armoires de cuisine
+Kamtech Services Inc	Pierre Robert	18-Jul-08	10406	Armoire contreplaqué	4619.28	Armoires de cuisine
+Groupe Octant Inc	Robert Gilbert	18-Jul-08	10407	Évier double	186.39	Plomberie
+Niveau Ligne Inc	Marc Léger	18-Jul-08	10408	Pentures cuivrées	233.88	Quicaillerie
+Rénovation M G F	Jacques Babin	18-Jul-08	10409	Cuvette standard	739.24	Plomberie
+Réalisation Sylvestre	Gilbert Jacques	18-Jul-08	10410	Pentures cuivrées	350.82	Quicaillerie
+Habitation Solano Inc	Robert Gilbert	18-Jul-08	10411	Fenêtre cadre aluminium	6610.15	Fenêtres
+Débouchage Et Nettoyage Action Inc	Marc Léger	18-Jul-08	10412	Porte vavoom blanche	758.58	Portes
+Leblanc St-Jarre Associés Inc	Marc Léger	18-Jul-08	10413	Porte vavoom blanche	1517.16	Portes
+Groupe Canalex Inc	Jacques Babin	19-Jul-08	10414	Évier double	372.78	Plomberie
+A & S Démolition	Marc Léger	19-Jul-08	10415	Pentures chromées	352.53	Quicaillerie
+Excellence Construction Inc	Robert Gilbert	19-Jul-08	10416	Armoire chêne	5216.18	Armoires de cuisine
+M C M F Planchers	Pierre Robert	19-Jul-08	10417	Lavabo simple	264.24	Plomberie
+Constructions Emile Ltée	Marc Léger	19-Jul-08	10418	Poignées chromées	96.42	Quicaillerie
+Tu-Mec Inc	Marc Léger	19-Jul-08	10419	Armoire chêne	5216.18	Armoires de cuisine
+AGL Construction Inc	Pierre Robert	19-Jul-08	10420	Poignées chromées	385.68	Quicaillerie
+R T & Tony Electrique Inc	Jacques Babin	19-Jul-08	10421	Poignées chromées	482.1	Quicaillerie
+Dallaire Michel & Associés	Marc Léger	19-Jul-08	10422	Pentures bas de gamme	89.74	Quicaillerie
+Gilbert (M & A) Construction Ltd	Pierre Robert	19-Jul-08	10423	Porte vavoom blanche	758.58	Portes
+Construction L K Inc	Marc Léger	19-Jul-08	10424	Pentures bas de gamme	51.28	Quicaillerie
+Avantage Plus Inc	Pierre Robert	19-Jul-08	10425	Porte monotone blanche	681.97	Portes
+Groupe Co Bel Inc	Gilbert Jacques	20-Jul-08	10426	Lavabo sur pied	655.54	Plomberie
+Construction Ulisse	Gilbert Jacques	20-Jul-08	10427	Cuvette de luxe	393.97	Plomberie
+Atwill-Morin	Robert Gilbert	20-Jul-08	10428	Porte monotone rouge	1394.3	Portes
+Construction Grandmaison Et Fils	Gilbert Jacques	20-Jul-08	10429	Porte vavoom blanche	758.58	Portes
+ABCO Couvreurs & Entrepreneurs Généraux Ltée	Jacques Babin	20-Jul-08	10430	Lavabo sur pied	655.54	Plomberie
+Amenagement Urbain	Pierre Robert	20-Jul-08	10431	Pentures cuivrées	467.76	Quicaillerie
+Conseillers en Gérance de Construction T E Q Inc	Pierre Robert	20-Jul-08	10432	Porte vavoom blanche	2275.74	Portes
+Wild Cat Construction Générale Inc	Jacques Babin	20-Jul-08	10433	Porte vavoom chêne	782.92	Portes
+Domaine Chartier II	Marc Léger	20-Jul-08	10434	Lavabo sur pied	327.77	Plomberie
+Vass-T Inc	Pierre Robert	20-Jul-08	10435	Cuvette de luxe	787.94	Plomberie
+Arno Electrique Ltée	Gilbert Jacques	20-Jul-08	10436	Porte monotone rouge	697.15	Portes
+Rénovation de Toiture Yan Messier	Marc Léger	20-Jul-08	10437	Porte vavoom chêne	782.92	Portes
+Construction Socam Ltée	Robert Gilbert	21-Jul-08	10438	Armoire acajou	5578.84	Armoires de cuisine
+Constructions Serbec Inc (Les)	Marc Léger	21-Jul-08	10439	Lavabo sur pied	327.77	Plomberie
+Entreprises Marc Dubuc (Les)	Jacques Babin	21-Jul-08	10440	Porte monotone rouge	2091.45	Portes
+St-Luc-Habitation Inc	Marc Léger	21-Jul-08	10441	Porte monotone blanche	2045.91	Portes
+Construction Renex Inc	Pierre Robert	21-Jul-08	10442	Armoire mélamine plus	4770.82	Armoires de cuisine
+Constructions Emile Ltée	Pierre Robert	21-Jul-08	10443	Porte monotone blanche	2045.91	Portes
+Marphil Electrique Inc	Gilbert Jacques	21-Jul-08	10444	Armoire particules	3924.41	Armoires de cuisine
+Guay Inc	Pierre Robert	21-Jul-08	10445	Armoire chêne	5216.18	Armoires de cuisine
+Kheng Ni	Robert Gilbert	21-Jul-08	10446	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Construction Lilja Corp	Jacques Babin	21-Jul-08	10447	Pentures bas de gamme	102.56	Quicaillerie
+Entreprises J Piccioni Inc (Les)	Gilbert Jacques	21-Jul-08	10448	Pentures cuivrées	350.82	Quicaillerie
+Le Groupe Gemsa Inc	Gilbert Jacques	21-Jul-08	10449	Porte monotone blanche	681.97	Portes
+ARDEC Construction Inc	Robert Gilbert	22-Jul-08	10450	Porte vavoom blanche	1517.16	Portes
+Construction L K Inc	Marc Léger	22-Jul-08	10451	Poignées chromées	433.89	Quicaillerie
+Tower Company (1961)	Pierre Robert	22-Jul-08	10452	Porte vavoom chêne	1565.84	Portes
+Entreprises Robert Bolduc Inc (Les)	Robert Gilbert	22-Jul-08	10453	Poignées cuivrées	291.15	Quicaillerie
+Conseillers en Gérance de Construction T E Q Inc	Gilbert Jacques	22-Jul-08	10454	Poignées cuivrées	349.38	Quicaillerie
+AGL Construction Inc	Jacques Babin	22-Jul-08	10455	Porte vavoom chêne	2348.76	Portes
+Renovation Zora	Jacques Babin	22-Jul-08	10456	Pentures cuivrées	526.23	Quicaillerie
+Avicor Construction Inc	Robert Gilbert	22-Jul-08	10457	Lavabo sur pied	655.54	Plomberie
+Construction-Cono	Robert Gilbert	22-Jul-08	10458	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Gallinex Inc	Jacques Babin	22-Jul-08	10459	Cuvette de luxe	393.97	Plomberie
+Thivierge G & L Inc	Gilbert Jacques	22-Jul-08	10460	Porte vavoom chêne	1565.84	Portes
+Nord Construction (1962) Inc	Pierre Robert	22-Jul-08	10461	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Paltec Multi-Fab	Marc Léger	23-Jul-08	10462	Armoire mélamine plus	4770.82	Armoires de cuisine
+Corporation De Construction Tridome	Gilbert Jacques	23-Jul-08	10463	Armoire contreplaqué	4619.28	Armoires de cuisine
+Construction B L G Inc	Marc Léger	23-Jul-08	10464	Fenêtre cadre aluminium	5288.12	Fenêtres
+CMS Entrepreneurs Généraux Inc	Gilbert Jacques	23-Jul-08	10465	Armoire acajou	5578.84	Armoires de cuisine
+Groupe Rodican Inc	Marc Léger	23-Jul-08	10466	Évier simple	247.74	Plomberie
+Or Gueoula Electrique Inc	Marc Léger	23-Jul-08	10467	Porte monotone blanche	2045.91	Portes
+Verdi Construction Limitée	Jacques Babin	23-Jul-08	10468	Lavabo simple	264.24	Plomberie
+Groupe MK	Marc Léger	23-Jul-08	10469	Cuvette de luxe	787.94	Plomberie
+Triatec Inc	Pierre Robert	23-Jul-08	10470	Lavabo simple	264.24	Plomberie
+Construction Renex Inc	Pierre Robert	23-Jul-08	10471	Pentures cuivrées	116.94	Quicaillerie
+Entrepreneur Général Giordano Inc	Gilbert Jacques	23-Jul-08	10472	Armoire acajou	5578.84	Armoires de cuisine
+Construction J G Lessard & Fils Inc	Pierre Robert	23-Jul-08	10473	Armoire acajou	5578.84	Armoires de cuisine
+Afas Construction Inc	Gilbert Jacques	24-Jul-08	10474	Porte monotone blanche	1363.94	Portes
+Construction P Leclerc	Gilbert Jacques	24-Jul-08	10475	Cuvette standard	369.62	Plomberie
+Groupe Phoenix (Le)	Gilbert Jacques	24-Jul-08	10476	Porte monotone blanche	1363.94	Portes
+Villatec Ltd	Marc Léger	24-Jul-08	10477	Poignées cuivrées	407.61	Quicaillerie
+Groupe Allogio Inc	Pierre Robert	24-Jul-08	10478	Fenêtre cadre aluminium	15864.36	Fenêtres
+Construction Lyon Inc	Gilbert Jacques	24-Jul-08	10479	Porte vavoom blanche	2275.74	Portes
+Kingston Byers Inc	Gilbert Jacques	24-Jul-08	10480	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Avicor Construction Inc	Gilbert Jacques	24-Jul-08	10481	Armoire chêne	5216.18	Armoires de cuisine
+Construction Kiewit Cie	Marc Léger	24-Jul-08	10482	Poignées cuivrées	582.3	Quicaillerie
+Construction-Cono	Robert Gilbert	24-Jul-08	10483	Armoire chêne	5216.18	Armoires de cuisine
+Canton Construction Inc	Gilbert Jacques	24-Jul-08	10484	Armoire acajou	5578.84	Armoires de cuisine
+Constructions Max Larocque Inc	Robert Gilbert	24-Jul-08	10485	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Constructions Bélair Nova (Les)	Gilbert Jacques	25-Jul-08	10486	Fenêtre cadre vinyl	10393.08	Fenêtres
+Construction Bentech Inc	Marc Léger	25-Jul-08	10487	Porte vavoom blanche	758.58	Portes
+DAG Construction inc.	Marc Léger	25-Jul-08	10488	Porte monotone blanche	2045.91	Portes
+Réno-Maître APCHQ	Robert Gilbert	25-Jul-08	10489	Évier double	372.78	Plomberie
+Construction L K Inc	Marc Léger	25-Jul-08	10490	Pentures bas de gamme	25.64	Quicaillerie
+Construction Reliance du Canada Ltée	Marc Léger	25-Jul-08	10491	Porte vavoom chêne	2348.76	Portes
+Elka Groupe Inc	Marc Léger	25-Jul-08	10492	Cuvette standard	369.62	Plomberie
+Ruvico	Jacques Babin	25-Jul-08	10493	Armoire mélamine plus	4770.82	Armoires de cuisine
+Habitation Solano Inc	Robert Gilbert	25-Jul-08	10494	Fenêtre cadre aluminium	6610.15	Fenêtres
+Construction Et Rénovation Virage Inc	Jacques Babin	25-Jul-08	10495	Armoire mélamine plus	4770.82	Armoires de cuisine
+O N Mansouri Inc	Marc Léger	25-Jul-08	10496	Porte vavoom chêne	2348.76	Portes
+Entrepreneurs Généraux Charest Campeau & Ass	Jacques Babin	25-Jul-08	10497	Armoire contreplaqué	4619.28	Armoires de cuisine
+Constructions Benoit Larrivée Ltée	Jacques Babin	26-Jul-08	10498	Armoire chêne	5216.18	Armoires de cuisine
+Shad Constructions Ltd	Robert Gilbert	26-Jul-08	10499	Armoire particules	3924.41	Armoires de cuisine
+Rivest Marcel Construction Inc	Pierre Robert	26-Jul-08	10500	Armoire acajou	5578.84	Armoires de cuisine
+Entrepreneurs Généraux Charest Campeau & Ass	Robert Gilbert	26-Jul-08	10501	Armoire acajou	5578.84	Armoires de cuisine
+Delsan-AIM Demolition	Robert Gilbert	26-Jul-08	10502	Armoire contreplaqué	4619.28	Armoires de cuisine
+Batimat Conseil	Pierre Robert	26-Jul-08	10503	Poignées cuivrées	174.69	Quicaillerie
+Deltec	Pierre Robert	26-Jul-08	10504	Armoire particules	3924.41	Armoires de cuisine
+Murphy Arthur Contracting Ltd	Marc Léger	26-Jul-08	10505	Lavabo simple	264.24	Plomberie
+Corp Des Entrepreneurs Généraux	Robert Gilbert	26-Jul-08	10506	Pentures cuivrées	292.35	Quicaillerie
+Construction Ruvoco	Gilbert Jacques	26-Jul-08	10507	Porte monotone rouge	1394.3	Portes
+Tesco 3000 Inc	Jacques Babin	26-Jul-08	10508	Armoire chêne	5216.18	Armoires de cuisine
+Entreprises Charta Inc	Gilbert Jacques	26-Jul-08	10509	Armoire acajou	5578.84	Armoires de cuisine
+Construction J G Lessard & Fils Inc	Gilbert Jacques	27-Jul-08	10510	Porte vavoom chêne	2348.76	Portes
+Nepcon Inc	Pierre Robert	27-Jul-08	10511	Porte vavoom chêne	2348.76	Portes
+Villatec Ltd	Marc Léger	27-Jul-08	10512	Pentures bas de gamme	51.28	Quicaillerie
+Sani N Cie Ltée	Marc Léger	27-Jul-08	10513	Armoire contreplaqué	4619.28	Armoires de cuisine
+Entreprise De Construction Elival Inc	Jacques Babin	27-Jul-08	10514	Porte vavoom chêne	782.92	Portes
+Construction Renex Inc	Gilbert Jacques	27-Jul-08	10515	Armoire acajou	5578.84	Armoires de cuisine
+Pisapia Ltée	Marc Léger	27-Jul-08	10516	Porte vavoom chêne	1565.84	Portes
+Groupe Madric Inc	Marc Léger	27-Jul-08	10517	Cuvette de luxe	787.94	Plomberie
+Construction Pajo Inc	Gilbert Jacques	27-Jul-08	10518	Armoire mélamine plus	4770.82	Armoires de cuisine
+Construction Beldex (Les)	Marc Léger	27-Jul-08	10519	Évier simple	123.87	Plomberie
+Aquafuge Fondation Inc	Gilbert Jacques	27-Jul-08	10520	Pentures bas de gamme	12.82	Quicaillerie
+Giroux Fernand & Ass	Gilbert Jacques	27-Jul-08	10521	Porte vavoom blanche	2275.74	Portes
+Westmount Plomberie & Chauffage Inc	Marc Léger	28-Jul-08	10522	Porte vavoom blanche	1517.16	Portes
+Excellence Construction Inc	Marc Léger	28-Jul-08	10523	Lavabo simple	264.24	Plomberie
+Calfeutrage BPRS Inc	Marc Léger	28-Jul-08	10524	Pentures bas de gamme	102.56	Quicaillerie
+Plancher De Bois Excalibur Inc	Marc Léger	28-Jul-08	10525	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+M C M F Planchers	Jacques Babin	28-Jul-08	10526	Pentures cuivrées	584.7	Quicaillerie
+Construction Reliance du Canada Ltée	Marc Léger	28-Jul-08	10527	Poignées chromées	192.84	Quicaillerie
+Forage Expert Québec Inc	Pierre Robert	28-Jul-08	10528	Lavabo sur pied	655.54	Plomberie
+Plancher De Bois Excalibur Inc	Robert Gilbert	28-Jul-08	10529	Évier double	372.78	Plomberie
+Entreprise De Construction Gonzalez Inc	Jacques Babin	28-Jul-08	10530	Porte vavoom blanche	758.58	Portes
+Shad Constructions Ltd	Marc Léger	28-Jul-08	10531	Fenêtre cadre vinyl	10393.08	Fenêtres
+Habitation Solano Inc	Gilbert Jacques	28-Jul-08	10532	Lavabo sur pied	655.54	Plomberie
+Développement Tanaka Inc	Robert Gilbert	28-Jul-08	10533	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Rampa Construction Co Inc	Gilbert Jacques	29-Jul-08	10534	Cuvette standard	369.62	Plomberie
+Couleurs Murs-Murs(Les)	Gilbert Jacques	29-Jul-08	10535	Fenêtre cadre aluminium	14542.33	Fenêtres
+Guay Inc	Jacques Babin	29-Jul-08	10536	Armoire chêne	5216.18	Armoires de cuisine
+Construction Serge Bergeron & Ass Inc	Gilbert Jacques	29-Jul-08	10537	Évier simple	247.74	Plomberie
+Construction Marc.com	Gilbert Jacques	29-Jul-08	10538	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Excelpro	Pierre Robert	29-Jul-08	10539	Pentures cuivrées	116.94	Quicaillerie
+Zetacon Inc Entrepreneurs Généraux	Marc Léger	29-Jul-08	10540	Armoire mélamine plus	4770.82	Armoires de cuisine
+Construction Beldex (Les)	Pierre Robert	29-Jul-08	10541	Armoire chêne	5216.18	Armoires de cuisine
+Gallinex Inc	Jacques Babin	29-Jul-08	10542	Armoire chêne	5216.18	Armoires de cuisine
+Domaine Des Manoirs	Jacques Babin	29-Jul-08	10543	Porte vavoom blanche	758.58	Portes
+Villatec Ltd	Gilbert Jacques	29-Jul-08	10544	Cuvette standard	739.24	Plomberie
+Triatec Inc	Pierre Robert	29-Jul-08	10545	Armoire acajou	5578.84	Armoires de cuisine
+Québec Démo	Jacques Babin	30-Jul-08	10546	Cuvette de luxe	787.94	Plomberie
+Rampa Construction Co Inc	Jacques Babin	30-Jul-08	10547	Cuvette standard	739.24	Plomberie
+Caron Michel	Pierre Robert	30-Jul-08	10548	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Pavage Picano Rénovation Inc	Jacques Babin	30-Jul-08	10549	Pentures chromées	78.34	Quicaillerie
+Thivierge G & L Inc	Gilbert Jacques	30-Jul-08	10550	Pentures cuivrées	584.7	Quicaillerie
+Entrepreneur général	Gilbert Jacques	30-Jul-08	10551	Armoire acajou	5578.84	Armoires de cuisine
+RAMCO Development Inc	Marc Léger	30-Jul-08	10552	Porte vavoom chêne	2348.76	Portes
+Axor Construction Canada Inc	Pierre Robert	30-Jul-08	10553	Fenêtre cadre vinyl	6062.63	Fenêtres
+Constructions Progerex Inc	Pierre Robert	30-Jul-08	10554	Lavabo simple	264.24	Plomberie
+Louisbourg Construction Ltd	Pierre Robert	30-Jul-08	10555	Fenêtre cadre aluminium	14542.33	Fenêtres
+Construction J P McLean	Jacques Babin	30-Jul-08	10556	Cuvette standard	369.62	Plomberie
+Giuseppe Sicoli	Jacques Babin	30-Jul-08	10557	Lavabo simple	132.12	Plomberie
+Construction Et Rénovation Virage Inc	Jacques Babin	31-Jul-08	10558	Armoire acajou	5578.84	Armoires de cuisine
+Développements Trian Inc (Les)	Gilbert Jacques	31-Jul-08	10559	Pentures chromées	313.36	Quicaillerie
+Vass-T Inc	Robert Gilbert	31-Jul-08	10560	Lavabo simple	132.12	Plomberie
+Construction L De M Inc	Marc Léger	31-Jul-08	10561	Porte vavoom blanche	2275.74	Portes
+Construction Triocan	Pierre Robert	31-Jul-08	10562	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Groupe Maltais	Marc Léger	31-Jul-08	10563	Armoire particules	3924.41	Armoires de cuisine
+Dacar Construction Inc	Jacques Babin	31-Jul-08	10564	Poignées chromées	192.84	Quicaillerie
+S Loiselle Finition Intérieure	Pierre Robert	31-Jul-08	10565	Armoire acajou	5578.84	Armoires de cuisine
+Construction Tri Star	Pierre Robert	31-Jul-08	10566	Poignées chromées	433.89	Quicaillerie
+Plomberie Transilvania Inc	Jacques Babin	31-Jul-08	10567	Lavabo sur pied	655.54	Plomberie
+Gaston Ouellette & Fils	Pierre Robert	31-Jul-08	10568	Armoire mélamine plus	4770.82	Armoires de cuisine
+Rainmaker	Gilbert Jacques	31-Jul-08	10569	Armoire chêne	5216.18	Armoires de cuisine
+Construction Pajo Inc	Marc Léger	1-Aug-08	10570	Poignées chromées	433.89	Quicaillerie
+Ross & Anglin Ltée	Robert Gilbert	1-Aug-08	10571	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Groupe Octant Inc	Marc Léger	1-Aug-08	10572	Porte vavoom chêne	2348.76	Portes
+Constructions Maxera Inc (Les)	Pierre Robert	1-Aug-08	10573	Armoire chêne	5216.18	Armoires de cuisine
+Dirigeants de PME	Robert Gilbert	1-Aug-08	10574	Cuvette de luxe	393.97	Plomberie
+Construction Socam Ltée	Marc Léger	1-Aug-08	10575	Pentures cuivrées	526.23	Quicaillerie
+Technic Construction Inc	Pierre Robert	1-Aug-08	10576	Armoire chêne	5216.18	Armoires de cuisine
+Constructions Serbec Inc (Les)	Gilbert Jacques	1-Aug-08	10577	Pentures cuivrées	175.41	Quicaillerie
+Akom Electrique	Robert Gilbert	1-Aug-08	10578	Armoire chêne	5216.18	Armoires de cuisine
+Remo Construction Inc	Jacques Babin	1-Aug-08	10579	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Lambda Entrepreneurs Généraux Inc	Marc Léger	1-Aug-08	10580	Pentures cuivrées	409.29	Quicaillerie
+Dacar Construction Inc	Jacques Babin	1-Aug-08	10581	Armoire particules	3924.41	Armoires de cuisine
+Construction Ouellette & Fils	Jacques Babin	2-Aug-08	10582	Fenêtre cadre aluminium	10576.24	Fenêtres
+St-Luc-Habitation Inc	Jacques Babin	2-Aug-08	10583	Armoire acajou	5578.84	Armoires de cuisine
+Couvreur Desjardins	Jacques Babin	2-Aug-08	10584	Évier double	372.78	Plomberie
+Entreprises Domra Inc	Robert Gilbert	2-Aug-08	10585	Armoire chêne	5216.18	Armoires de cuisine
+Constructions Claude Péloquin Inc (Les)	Pierre Robert	2-Aug-08	10586	Fenêtre cadre vinyl	10393.08	Fenêtres
+Constructions Prélon Inc (Les)	Robert Gilbert	2-Aug-08	10587	Armoire chêne	5216.18	Armoires de cuisine
+La Compagnie Électrique Britton Ltée	Marc Léger	2-Aug-08	10588	Porte vavoom blanche	758.58	Portes
+Cogex	Marc Léger	2-Aug-08	10589	Armoire chêne	5216.18	Armoires de cuisine
+Solution Soudure	Pierre Robert	2-Aug-08	10590	Armoire particules	3924.41	Armoires de cuisine
+Renovation Zora	Jacques Babin	2-Aug-08	10591	Armoire acajou	5578.84	Armoires de cuisine
+Charta Entreprises Inc	Marc Léger	2-Aug-08	10592	Porte vavoom blanche	758.58	Portes
+Entrepreneur Général Giordano Inc	Pierre Robert	2-Aug-08	10593	Armoire mélamine plus	4770.82	Armoires de cuisine
+Boa Constructions inc	Pierre Robert	3-Aug-08	10594	Porte monotone blanche	2045.91	Portes
+Le Groupe Triselect Inc	Gilbert Jacques	3-Aug-08	10595	Porte monotone blanche	2045.91	Portes
+Peintures Meteor Inc	Gilbert Jacques	3-Aug-08	10596	Pentures chromées	78.34	Quicaillerie
+Construction A Tétreault Inc	Pierre Robert	3-Aug-08	10597	Pentures bas de gamme	51.28	Quicaillerie
+CMS Entrepreneurs Généraux Inc	Gilbert Jacques	3-Aug-08	10598	Poignées chromées	385.68	Quicaillerie
+Construction Gesmonde Ltée	Robert Gilbert	3-Aug-08	10599	Porte monotone blanche	681.97	Portes
+Acier Revêtement S & L	Gilbert Jacques	3-Aug-08	10600	Poignées chromées	289.26	Quicaillerie
+Constructions R Pétrin & Fils Inc	Pierre Robert	3-Aug-08	10601	Armoire contreplaqué	4619.28	Armoires de cuisine
+Construction Tbc	Jacques Babin	3-Aug-08	10602	Poignées chromées	96.42	Quicaillerie
+Constructions Maxera Inc (Les)	Gilbert Jacques	3-Aug-08	10603	Cuvette de luxe	787.94	Plomberie
+Baillargeon P Ltée	Robert Gilbert	3-Aug-08	10604	Armoire acajou	5578.84	Armoires de cuisine
+Enterprise Air 9	Gilbert Jacques	3-Aug-08	10605	Cuvette de luxe	393.97	Plomberie
+Québec Démo	Gilbert Jacques	4-Aug-08	10606	Cuvette de luxe	787.94	Plomberie
+Construire Vert Inc	Gilbert Jacques	4-Aug-08	10607	Pentures bas de gamme	12.82	Quicaillerie
+Salvex Inc	Jacques Babin	4-Aug-08	10608	Poignées chromées	96.42	Quicaillerie
+Unika Excavation	Gilbert Jacques	4-Aug-08	10609	Lavabo simple	264.24	Plomberie
+Jardins Westmount	Jacques Babin	4-Aug-08	10610	Lavabo sur pied	655.54	Plomberie
+Consultants Electrique D & D Inc	Marc Léger	4-Aug-08	10611	Armoire acajou	5578.84	Armoires de cuisine
+Entreprises Electriques J P Charbonneau	Gilbert Jacques	4-Aug-08	10612	Lavabo sur pied	327.77	Plomberie
+Construction B L G Inc	Gilbert Jacques	4-Aug-08	10613	Armoire chêne	5216.18	Armoires de cuisine
+Constructeurs Laurence Ltée (Les)	Robert Gilbert	4-Aug-08	10614	Armoire particules	3924.41	Armoires de cuisine
+Dargis Groupe	Marc Léger	4-Aug-08	10615	Poignées chromées	192.84	Quicaillerie
+Constructions Lavacon Inc (Les)	Pierre Robert	4-Aug-08	10616	Armoire chêne	5216.18	Armoires de cuisine
+Couleurs Murs-Murs(Les)	Pierre Robert	4-Aug-08	10617	Pentures bas de gamme	51.28	Quicaillerie
+Construction AGLP	Jacques Babin	5-Aug-08	10618	Poignées chromées	482.1	Quicaillerie
+Desjardins P & R Constrn Inc	Marc Léger	5-Aug-08	10619	Fenêtre cadre aluminium	6610.15	Fenêtres
+Maisons D & D	Pierre Robert	5-Aug-08	10620	Fenêtre cadre vinyl	7794.81	Fenêtres
+K M Construction Et Rénovation	Pierre Robert	5-Aug-08	10621	Lavabo simple	132.12	Plomberie
+Praxi Entrepreneur Généraux Inc	Jacques Babin	5-Aug-08	10622	Lavabo sur pied	655.54	Plomberie
+Foglietta Construction Inc	Jacques Babin	5-Aug-08	10623	Lavabo sur pied	327.77	Plomberie
+Canton Construction Inc	Jacques Babin	5-Aug-08	10624	Poignées cuivrées	174.69	Quicaillerie
+RA Renov-Action Inc	Marc Léger	5-Aug-08	10625	Poignées cuivrées	232.92	Quicaillerie
+Villatec Ltée	Robert Gilbert	5-Aug-08	10626	Cuvette de luxe	787.94	Plomberie
+Davcor Capital Inc	Pierre Robert	5-Aug-08	10627	Pentures chromées	78.34	Quicaillerie
+K M Construction Et Rénovation	Gilbert Jacques	5-Aug-08	10628	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Madgab Renovations & Construction	Robert Gilbert	5-Aug-08	10629	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Groupe Phoenix (Le)	Jacques Babin	6-Aug-08	10630	Poignées chromées	433.89	Quicaillerie
+Construction NCL	Robert Gilbert	6-Aug-08	10631	Armoire chêne	5216.18	Armoires de cuisine
+Batimat Conseil	Marc Léger	6-Aug-08	10632	Fenêtre cadre vinyl	8660.9	Fenêtres
+Corporation De Construction Tridome	Pierre Robert	6-Aug-08	10633	Fenêtre cadre vinyl	5196.54	Fenêtres
+Groupe Canvar	Robert Gilbert	6-Aug-08	10634	Armoire acajou	5578.84	Armoires de cuisine
+Forage Expert Québec Inc	Jacques Babin	6-Aug-08	10635	Lavabo sur pied	327.77	Plomberie
+A1 Réno-Calfeutrage Inc	Robert Gilbert	6-Aug-08	10636	Poignées chromées	337.47	Quicaillerie
+Reliance Construction Of Canada Ltd	Pierre Robert	6-Aug-08	10637	Évier simple	247.74	Plomberie
+Traitement d'Air du Québec	Pierre Robert	6-Aug-08	10638	Lavabo simple	264.24	Plomberie
+Karmik	Marc Léger	6-Aug-08	10639	Porte monotone rouge	697.15	Portes
+Car-Mik Electrique Inc	Gilbert Jacques	6-Aug-08	10640	Cuvette standard	739.24	Plomberie
+Québec Démo	Pierre Robert	6-Aug-08	10641	Lavabo simple	264.24	Plomberie
+Or Gueoula Electrique Inc	Pierre Robert	7-Aug-08	10642	Évier simple	247.74	Plomberie
+Construction Grandmaison Et Fils	Pierre Robert	7-Aug-08	10643	Porte monotone blanche	2045.91	Portes
+Jardins Westmount	Jacques Babin	7-Aug-08	10644	Fenêtre cadre aluminium	7932.18	Fenêtres
+Entrepreneur Général Spécialisé T Alongi Inc	Jacques Babin	7-Aug-08	10645	Pentures cuivrées	350.82	Quicaillerie
+Mistral Ventilation	Robert Gilbert	7-Aug-08	10646	Pentures cuivrées	292.35	Quicaillerie
+Baril Jean Marie & Fils Inc	Robert Gilbert	7-Aug-08	10647	Évier double	186.39	Plomberie
+Construction Albert Jean Ltée	Pierre Robert	7-Aug-08	10648	Évier double	186.39	Plomberie
+Groupe Co Bel Inc	Robert Gilbert	7-Aug-08	10649	Lavabo simple	264.24	Plomberie
+Entreprises Luc Ouellet (Les)	Jacques Babin	7-Aug-08	10650	Évier double	186.39	Plomberie
+Cogerni Inc	Robert Gilbert	7-Aug-08	10651	Évier double	372.78	Plomberie
+Ensemble Terre-Ciel	Marc Léger	7-Aug-08	10652	Fenêtre cadre aluminium	9254.21	Fenêtres
+Entreprises Joël Plasse Inc (Les)	Robert Gilbert	7-Aug-08	10653	Lavabo simple	132.12	Plomberie
+Simard Germain	Marc Léger	8-Aug-08	10654	Porte monotone blanche	2045.91	Portes
+S Loiselle Finition Intérieure	Marc Léger	8-Aug-08	10655	Porte monotone rouge	1394.3	Portes
+Entreprise De Construction Elival Inc	Jacques Babin	8-Aug-08	10656	Armoire chêne	5216.18	Armoires de cuisine
+Constructions R Pétrin & Fils Inc	Marc Léger	8-Aug-08	10657	Porte vavoom blanche	758.58	Portes
+Renobel S B	Pierre Robert	8-Aug-08	10658	Pentures cuivrées	584.7	Quicaillerie
+Constructions Claude Péloquin Inc (Les)	Robert Gilbert	8-Aug-08	10659	Armoire contreplaqué	4619.28	Armoires de cuisine
+Montreal Construction	Gilbert Jacques	8-Aug-08	10660	Pentures chromées	352.53	Quicaillerie
+RénovAction JC Lanctôt	Jacques Babin	8-Aug-08	10661	Porte vavoom blanche	758.58	Portes
+Tomassini & Frères Ltée	Pierre Robert	8-Aug-08	10662	Fenêtre cadre vinyl	6928.72	Fenêtres
+Entreprises Samig Ltée (Les)	Robert Gilbert	8-Aug-08	10663	Cuvette standard	739.24	Plomberie
+Soudure Lessard	Jacques Babin	8-Aug-08	10664	Pentures cuivrées	350.82	Quicaillerie
+Dargis Groupe	Jacques Babin	8-Aug-08	10665	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+S F Tadros Developement	Gilbert Jacques	9-Aug-08	10666	Poignées cuivrées	407.61	Quicaillerie
+Damikhal Artisanal Enr	Marc Léger	9-Aug-08	10667	Porte monotone blanche	1363.94	Portes
+Constructions Prélon Inc (Les)	Marc Léger	9-Aug-08	10668	Armoire contreplaqué	4619.28	Armoires de cuisine
+Marphil Electrique Inc	Marc Léger	9-Aug-08	10669	Armoire particules	3924.41	Armoires de cuisine
+Electritek P&C 2001 Inc	Robert Gilbert	9-Aug-08	10670	Porte monotone blanche	1363.94	Portes
+Construction Irenée Paquet & Fils Inc	Gilbert Jacques	9-Aug-08	10671	Armoire acajou	5578.84	Armoires de cuisine
+Cité-Tech Construction Inc	Robert Gilbert	9-Aug-08	10672	Armoire particules	3924.41	Armoires de cuisine
+Salvex Inc	Jacques Babin	9-Aug-08	10673	Pentures cuivrées	116.94	Quicaillerie
+D R Plumbing	Robert Gilbert	9-Aug-08	10674	Pentures chromées	39.17	Quicaillerie
+Pavage Picano Rénovation Inc	Jacques Babin	9-Aug-08	10675	Lavabo sur pied	655.54	Plomberie
+Dancon Inc	Jacques Babin	9-Aug-08	10676	Cuvette standard	369.62	Plomberie
+Pisapia Ltée	Marc Léger	9-Aug-08	10677	Fenêtre cadre aluminium	7932.18	Fenêtres
+Groupe Phoenix (Le)	Jacques Babin	10-Aug-08	10678	Armoire particules	3924.41	Armoires de cuisine
+Norwalk Construction Inc	Marc Léger	10-Aug-08	10679	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Zuckerbilt Inc	Gilbert Jacques	10-Aug-08	10680	Porte vavoom chêne	782.92	Portes
+Construction Denis Ouellet Inc	Gilbert Jacques	10-Aug-08	10681	Cuvette standard	739.24	Plomberie
+Entreprises Charta Inc	Pierre Robert	10-Aug-08	10682	Porte vavoom blanche	758.58	Portes
+R T & Tony Electrique Inc	Robert Gilbert	10-Aug-08	10683	Armoire particules	3924.41	Armoires de cuisine
+Constructions Serbec Inc (Les)	Pierre Robert	10-Aug-08	10684	Évier simple	123.87	Plomberie
+Rénovation M G F	Gilbert Jacques	10-Aug-08	10685	Fenêtre cadre vinyl	3464.36	Fenêtres
+Thivierge G & L Inc	Marc Léger	10-Aug-08	10686	Lavabo sur pied	655.54	Plomberie
+Parma Construction Inc	Marc Léger	10-Aug-08	10687	Cuvette de luxe	393.97	Plomberie
+Entreprises Marc Dubuc (Les)	Robert Gilbert	10-Aug-08	10688	Évier double	186.39	Plomberie
+Marfoglia Construction Inc	Robert Gilbert	10-Aug-08	10689	Évier simple	247.74	Plomberie
+Phi Construction Inc	Robert Gilbert	11-Aug-08	10690	Armoire particules	3924.41	Armoires de cuisine
+Multi-Phase Construction Inc	Robert Gilbert	11-Aug-08	10691	Porte monotone rouge	1394.3	Portes
+Giuseppe Sicoli	Gilbert Jacques	11-Aug-08	10692	Lavabo sur pied	655.54	Plomberie
+Dupal Construction Inc	Gilbert Jacques	11-Aug-08	10693	Fenêtre cadre vinyl	7794.81	Fenêtres
+Square Perras (Le)	Marc Léger	11-Aug-08	10694	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Sani N Cie Ltée	Robert Gilbert	11-Aug-08	10695	Cuvette de luxe	393.97	Plomberie
+Praxi Entrepreneur Généraux Inc	Pierre Robert	11-Aug-08	10696	Fenêtre cadre aluminium	15864.36	Fenêtres
+Zetacon Inc Entrepreneurs Généraux	Pierre Robert	11-Aug-08	10697	Cuvette de luxe	787.94	Plomberie
+Renobel S B	Gilbert Jacques	11-Aug-08	10698	Pentures cuivrées	584.7	Quicaillerie
+Rénovation Luc Brun	Gilbert Jacques	11-Aug-08	10699	Poignées chromées	385.68	Quicaillerie
+Tysel Construction & Rénovation Inc	Marc Léger	11-Aug-08	10700	Armoire contreplaqué	4619.28	Armoires de cuisine
+Entreprises Yves D'Astous inc	Marc Léger	11-Aug-08	10701	Évier simple	247.74	Plomberie
+Vinac Construction Inc	Robert Gilbert	12-Aug-08	10702	Armoire chêne	5216.18	Armoires de cuisine
+Elka Groupe Inc	Pierre Robert	12-Aug-08	10703	Pentures chromées	195.85	Quicaillerie
+Entrepreneur Général Giordano Inc	Gilbert Jacques	12-Aug-08	10704	Armoire chêne	5216.18	Armoires de cuisine
+Constructions Emile Ltée	Gilbert Jacques	12-Aug-08	10705	Poignées cuivrées	349.38	Quicaillerie
+Constructions Serbec Inc (Les)	Pierre Robert	12-Aug-08	10706	Armoire particules	3924.41	Armoires de cuisine
+Budd Contracting Corp	Jacques Babin	12-Aug-08	10707	Cuvette de luxe	393.97	Plomberie
+Alcana Les Constructions Inc	Marc Léger	12-Aug-08	10708	Porte monotone blanche	1363.94	Portes
+Habitations La Poudrière (Les)	Jacques Babin	12-Aug-08	10709	Évier simple	123.87	Plomberie
+Construction Tri Star	Pierre Robert	12-Aug-08	10710	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+Construction Et Rénovation Virage Inc	Gilbert Jacques	12-Aug-08	10711	Armoire chêne	5216.18	Armoires de cuisine
+Gestion BEE	Robert Gilbert	12-Aug-08	10712	Lavabo simple	132.12	Plomberie
+Caron Michel	Jacques Babin	12-Aug-08	10713	Fenêtre cadre aluminium	17186.39	Fenêtres
+Entrepreneur General	Pierre Robert	13-Aug-08	10714	Fenêtre cadre aluminium	13220.3	Fenêtres
+Constructions Progerex Inc	Jacques Babin	13-Aug-08	10715	Pentures bas de gamme	76.92	Quicaillerie
+Construction Irenée Paquet & Fils Inc	Robert Gilbert	13-Aug-08	10716	Armoire contreplaqué	4619.28	Armoires de cuisine
+Constructions Claude Péloquin Inc (Les)	Gilbert Jacques	13-Aug-08	10717	Cuvette de luxe	787.94	Plomberie
+Champoux Gaston (1973) Inc	Robert Gilbert	13-Aug-08	10718	Armoire contreplaqué mélamine	4726.3	Armoires de cuisine
+National Development Inc	Pierre Robert	13-Aug-08	10719	Porte monotone blanche	1363.94	Portes
+Kingston Byers Inc	Gilbert Jacques	13-Aug-08	10720	Poignées chromées	482.1	Quicaillerie
+Réfrigération Mata	Robert Gilbert	13-Aug-08	10721	Poignées cuivrées	174.69	Quicaillerie
+Espace Construction Inc	Marc Léger	13-Aug-08	10722	Armoire chêne	5216.18	Armoires de cuisine
+Constructions Melatti Inc (Les)	Gilbert Jacques	13-Aug-08	10723	Évier simple	123.87	Plomberie
+Consultants Electrique D & D Inc	Jacques Babin	13-Aug-08	10724	Porte vavoom blanche	1517.16	Portes
+Construction Pichette	Marc Léger	13-Aug-08	10725	Armoire chêne	5216.18	Armoires de cuisine
+Constructions Maxera Inc (Les)	Robert Gilbert	14-Aug-08	10726	Porte vavoom chêne	782.92	Portes
+Ruvico	Jacques Babin	14-Aug-08	10727	Pentures chromées	313.36	Quicaillerie
+Sablage Bergeron Inc	Robert Gilbert	14-Aug-08	10728	Pentures cuivrées	350.82	Quicaillerie
+Cam Construction	Robert Gilbert	14-Aug-08	10729	Cuvette standard	369.62	Plomberie
+Constructions Maxera Inc (Les)	Pierre Robert	14-Aug-08	10730	Pentures bas de gamme	38.46	Quicaillerie
+Rampa Construction Co Inc	Robert Gilbert	14-Aug-08	10731	Lavabo sur pied	327.77	Plomberie
+Plancher Summum	Gilbert Jacques	14-Aug-08	10732	Fenêtre cadre aluminium	6610.15	Fenêtres
+Construction Experts Sicoli Inc	Robert Gilbert	14-Aug-08	10733	Lavabo simple	132.12	Plomberie
+J L P Construction Inc	Pierre Robert	14-Aug-08	10734	Évier simple	123.87	Plomberie
+LM SAUVE	Jacques Babin	14-Aug-08	10735	Armoire chêne	5216.18	Armoires de cuisine
+Condominiums Centro Inc	Marc Léger	14-Aug-08	10736	Armoire mélamine plus	4770.82	Armoires de cuisine
+Gaston Ouellette & Fils	Gilbert Jacques	14-Aug-08	10737	Armoire chêne	5216.18	Armoires de cuisine
+Entreprise De Construction Gonzalez Inc	Robert Gilbert	15-Aug-08	10738	Fenêtre cadre vinyl	3464.36	Fenêtres
+Industries Vendette Ltée (Les)	Gilbert Jacques	15-Aug-08	10739	Évier double	372.78	Plomberie
+Jarell Development	Jacques Babin	15-Aug-08	10740	Armoire contreplaqué	4619.28	Armoires de cuisine

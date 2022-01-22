@@ -1,0 +1,3 @@
+Bienvenue au cours de programmation!
+Voici une ligne de texte.
+Et en voici une autre!
